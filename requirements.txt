@@ -1,0 +1,11 @@
+streamlit
+folium
+streamlit-folium
+earthengine-api
+pandas
+plotly
+requests
+numpy
+joblib
+reportlab
+google-auth
